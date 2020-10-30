@@ -21,3 +21,6 @@ What I learnt
 - [x] Infinite Scrolling using offsets
 - [x] Search
 
+________
+
+Will attach the YouTube video I learnt this from as I find it!
